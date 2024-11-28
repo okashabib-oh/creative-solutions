@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <g id="Group_373" data-name="Group 373" transform="translate(-0.478 -0.478)">
+    <g id="Ellipse_17" data-name="Ellipse 17" transform="translate(0.478 0.478)" fill="none" stroke="#fff" stroke-width="1">
+      <circle cx="17" cy="17" r="17" stroke="none"/>
+      <circle cx="17" cy="17" r="16.5" fill="none"/>
+    </g>
+    <path id="Icon_awesome-youtube" data-name="Icon awesome-youtube" d="M14.553,6.017A1.733,1.733,0,0,0,13.334,4.79,40.951,40.951,0,0,0,7.946,4.5a40.951,40.951,0,0,0-5.388.29A1.733,1.733,0,0,0,1.338,6.017,18.178,18.178,0,0,0,1.05,9.358,18.178,18.178,0,0,0,1.338,12.7a1.707,1.707,0,0,0,1.219,1.208,40.952,40.952,0,0,0,5.388.29,40.951,40.951,0,0,0,5.388-.29A1.707,1.707,0,0,0,14.553,12.7a18.178,18.178,0,0,0,.288-3.341,18.178,18.178,0,0,0-.288-3.341ZM6.535,11.409v-4.1l3.6,2.051-3.6,2.051Z" transform="translate(9.028 7.891)" fill="#fff"/>
+  </g>
+</svg>

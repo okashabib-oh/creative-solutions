@@ -1,24 +1,28 @@
-import logo from './logo.svg';
+
 import './App.css';
+import Call from './components/call/Call';
+import CaseStudies from './components/casestudies/CaseStudies';
+import CustomMobile from './components/custom-mobile/CustomMobile';
+import Footer from './components/footer/Footer';
+import Hero from './components/hero/Hero';
+import NavBar from './components/navbar/NavBar';
+import Partner from './components/partner/Partner';
+import Skills from './components/skills/Skills';
+import Specializing from './components/specializing/Specializing';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <NavBar />
+      <Hero />
+      <Skills />
+      <Partner />
+      <CaseStudies />
+      <CustomMobile />
+      <Specializing />
+      <Call />
+      <Footer />
+    </>
   );
 }
 
