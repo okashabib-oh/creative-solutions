@@ -25,7 +25,7 @@ const CaseStudies = () => {
                 ))}
             </div>
             <div className='flex justify-center lg:hidden'>
-                <button className='w-36 h-14 flex items-center transition-all duration-300 text-white bg-gradient-to-r from-[#001C69] to-[#000B31] hover:bg-gradient-to-b hover:scale-110'>View More Case Studies</button>
+                <button className='w-30 px-4 h-14 flex items-center font-bold transition-all duration-300 text-white bg-gradient-to-r from-[#001C69] to-[#000B31] hover:bg-gradient-to-b hover:scale-110'>View More Case Studies</button>
             </div>
         </div>
     )

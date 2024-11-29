@@ -49,7 +49,7 @@ const Partner = () => {
     return (
         <div className='mt-10'>
             <h1 className='text-4xl text-center font-bold mb-8'>Why Partner with Us for Your Software Needs?</h1>
-            <div className='flex justify-center flex-wrap gap-2 gap-x-2 xl:gap-x-6 py-2 2xl:w-[90%] mx-auto'>
+            <div className='flex justify-center flex-wrap gap-2 gap-x-2 xl:gap-x-6 space-y-4 py-2 2xl:w-[90%] mx-auto'>
                 {partners.map((items, ind) => (
                     <div key={ind} className='w-full sm:w-[70%] lg:w-[29%] xl:w-[24%] flex items-center rounded-3xl py-10 px-4 space-y-2 flex-col bg-gradient-to-r hover:bg-gradient-to-b transition-all duration-200 from-[#0099FF] to-[#002078] text-white'>
                         <div className='bg-white rounded-full w-20 h-20 flex justify-center items-center'>

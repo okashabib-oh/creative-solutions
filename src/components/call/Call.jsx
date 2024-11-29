@@ -2,12 +2,12 @@ import React from 'react';
 
 const Call = () => {
     return (
-        <div className="pb-10">
-            {/* Call to Action Section */}
+        <div className="pb-10 pt-10">
+            
             <div className="bg-[#09f] rounded-xl overflow-hidden flex md:justify-center flex-wrap items-center w-[85%] mx-auto justify-between px-6 lg:px-10">
-                {/* Text Content */}
+                
                 <div className="lg:w-1/2 w-full text-center lg:text-start">
-                    <h1 className="text-3xl lg:text-4xl font-bold text-white mb-6 md:pt-6">
+                    <h1 className="text-3xl lg:text-4xl font-bold text-white mb-6 md:pt-8 s:pt-12 xs:pt-10 py-6">
                         Ready To Take The Next Step? Consult Our Experts Right Away!
                     </h1>
                     <div className="flex flex-wrap justify-center lg:justify-start gap-4">
@@ -19,7 +19,6 @@ const Call = () => {
                         </button>
                     </div>
                 </div>
-                {/* Image */}
                 <div className="w-full lg:w-auto mt-6 lg:mt-0">
                     <img
                         src="/assets/analytics.8d75d6b2.svg"
@@ -29,7 +28,6 @@ const Call = () => {
                 </div>
             </div>
 
-            {/* Additional Content Section */}
             <div className="space-y-6 flex flex-col items-center w-[90%] lg:w-[70%] mx-auto pt-10 text-center text-[#000724]">
                 <h1 className="text-3xl lg:text-4xl font-bold">
                     Have A Project To Discuss? We Are Ready!

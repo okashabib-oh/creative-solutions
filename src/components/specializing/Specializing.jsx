@@ -47,7 +47,7 @@ const Specializing = () => {
                             <img src={items.logo} width={150} height={150} alt="" />
                             <h5 className='text-bold text-2xl text-[#000724]'>{items.name}</h5>
                             <h5 className='text-bold text-2xl text-[#000724]'>{items.nameTwo}</h5>
-                            <p className='py-4 text-center w-80'>
+                            <p className='py-4 text-center w-80 px-6'>
                                 {items.description}
                             </p>
                         </div>
